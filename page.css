@@ -84,7 +84,7 @@ p{
     }
     
     nav {
-        grid-template-columns: 1fr auto;
+        grid-template-columns: 1fr auto auto;
         gap: 10px;
     }
     
