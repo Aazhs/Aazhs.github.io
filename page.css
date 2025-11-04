@@ -38,6 +38,9 @@ nav {
     height: 16px;
     margin-right: 5px;
     vertical-align: middle;
+    max-width: 16px;
+    max-height: 16px;
+    display: inline-block;
 }
 
 .blog{
